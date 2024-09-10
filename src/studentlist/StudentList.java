@@ -30,6 +30,8 @@ public class StudentList {
         studentList[0] = s1;
         studentList[1] = s2;
         studentList[2] = s3;
+        studentList[3] = s4;
+        studentList[4] = s5;
         
         //fill in 4 student names before running
         for (Student s : studentList) {
