@@ -15,15 +15,17 @@ public class StudentList {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Student[] studentList = new Student[3];//change size before running
+        Student[] studentList = new Student[5];//change size before running
         Student s1 = new Student();
         s1.setName("Fagun Vankawala");
         Student s2 = new Student();
         s2.setName("Palak Shah");
         Student s3 = new Student();
         s3.setName("Megh Vankawala");
-//        Student s4 = new Student();
-//        s4.setName("Megh Vankawala");
+        Student s4 = new Student();
+        s4.setName("Megh Vankawala");
+        Student s5 = new Student();
+        s5.setName("Maddrazo");
 //       
         studentList[0] = s1;
         studentList[1] = s2;
